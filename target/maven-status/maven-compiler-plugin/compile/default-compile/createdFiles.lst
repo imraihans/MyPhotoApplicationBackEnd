@@ -1,0 +1,6 @@
+com/example/MyPhotoApplication/service/UserService.class
+com/example/MyPhotoApplication/model/Users.class
+com/example/MyPhotoApplication/resource/UserResource.class
+com/example/MyPhotoApplication/repository/UserRepository.class
+com/example/MyPhotoApplication/ServletInitializer.class
+com/example/MyPhotoApplication/MyPhotoApplication.class
